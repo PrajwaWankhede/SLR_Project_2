@@ -1,5 +1,4 @@
-# SLR_Project_2
-# Salary Prediction Web Application
+# Salary Prediction Web Applicatio
 
 A Machine Learning web application built using **Python**, **Flask**, and **Scikit-learn** that predicts salary based on years of experience using a trained Linear Regression model.
 
